@@ -1,0 +1,124 @@
+GIT:
+
+-> Source code management tool / Code management tool.
+
+--> Open Source.
+
+-> CLI - command line interface tool.
+
+
+GITHUB:
+
+--> UI to track the changes whatever done through GIT.
+
+--> Place to create a repository
+
+*********************************************************************
+
+--> Repository
+
+--> Local
+
+--> Remote
+
+*********************************************************************
+Creating a Repository:
+
+1. Login into Github.com
+2. Top right corner, select "Your repositories"
+3. Click "New" button.
+4. Provide the repository name.
+5. Make it as "Public" or "Private"
+6. Click "Create Repository" button.
+
+************************************************************************
+
+git version - to know the version of the git installed.
+
+git status - To know the changes
+
+One-time Activity:
+git init -> Initialization command
+
+git remote add origin <repositoryUrl> - to create a connection between your local and remote.
+
+Add your email & name:
+
+git config --global user.email "<email ID>"
+
+git config --global user.name "<username>"
+
+
+Daily Activity:
+
+git add .
+
+git commit -m "Any valid message"
+
+git push -u origin master
+
+Cloning the project:
+
+git clone <RepositoryUrl>
+
+***************************************************************
+
+Task for the Day: April_16
+
+1. Create a repository in your name
+
+2. Create a project in you local.
+
+3. Push your code to the repository
+
+4. Add collaborator to "Kamal16987"
+
+*********************************************************
+
+Task for the Day: April_22
+
+1. You will get an invite for "GIT9AM_WEEKDAY_BRANCH" repository.
+
+2. Accept the invite.
+
+3. Clone the project.
+
+4. Import the project.
+
+5. Add <yourname>.java and apply method for palindrome series.
+
+6. Then push your code. (Before pushing your code, user command "git pull")
+
+*********************************************************
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

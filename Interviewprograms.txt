@@ -1,0 +1,78 @@
+Interview preparation
+--------------------------------------------------
+
+1. prepare JAVA programs
+string - string palindrome
+	count the charectors in a given string (using hashmap); JAVA
+	find char,number and special char in a given String ex:JAVA@123
+	abc xyz= ttt xyz
+number : number palindrome,fibonacci,armstrong,factorial,prime number
+Array : sort an integer array -> bubble sort -->
+	find 2nd max and 3rd max in a given array
+	1 2 3 4 --> 9 2 3 4
+numer triangle :
+*
+**
+***
+****
+String and Array Manipulation:
+JAVA = MAVA
+testng frame work = cucumber framework
+[1,2,3,5,6,1]
+
+2 . OOPs concepts
+	Class
+	Constructor - Pagefactory
+	Inheritance -  step definition extends functional lib 
+	Interface - iRetryAnalizer
+        method over riding-Retry method
+	Method over loading - Frames - switchTo().frame()string,int,WebElement
+	Plymorphism-
+	Abstraction-
+	Encapsulation - page object model
+	
+
+3. collection
+	differencec btwn list and set
+	array and array list
+	collection and collections
+	hashmap and hash table
+	interfaces and class in collection
+	convert set to List
+methods in List set and map
+
+-----------------------------------------------------
+
+
+Selenium
+---------------------------------------------------------
+1.excel read & write
+2.webtable
+3.JDBC connection
+4.handling windows,popups,alerts and frames
+5. drop down 
+6. screen shot, java script executor
+7.alternate for click
+8.action class (right click,double click,drag and drop)
+9.wait 
+10.diff btwn findelemnt and elements
+11.locators
+12.xpaths
+<div>
+	<T1> id='x'</T1>
+	<T2>
+	<T3>
+</div>
+-----------------------------------------------
+TestNG
+
+Parallel execution
+cross browser testing
+how to set priority
+how to skip a test
+testNG xml structure
+parameter and data provider
+Annotattion order of execution
+how to execute failed test in testNG
+ 
+----------------------------------------------------
